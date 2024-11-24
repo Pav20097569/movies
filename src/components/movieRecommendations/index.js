@@ -1,4 +1,3 @@
-// src/components/MovieRecommendations.js
 import React, { useState, useEffect } from 'react';
 import { getMovieRecommendations } from '../tmdb-api';
 import MovieCard from './MovieCard';
